@@ -9,7 +9,7 @@ Tweepyを使用してTwitterアイコンを10分(初期値)ごとにjpgファイ
 APIキーは各自で用意してください。
 アイコン画像はプログラムファイルを同じ階層にすべておいてください。
 
-# 使用ライブラリ Used Library
+# Used Library
 random
 tweepy
 time
