@@ -10,7 +10,4 @@ APIキーは各自で用意してください。
 アイコン画像はプログラムファイルを同じ階層にすべておいてください。
 
 # Used Library
-random
-tweepy
-time
-glob
+random,tweepy,time,glob
